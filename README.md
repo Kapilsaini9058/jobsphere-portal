@@ -6,7 +6,7 @@ It helps users browse, search, and apply for jobs easily.
 ---
 
 ## 🌐 Live Demo
-👉 https://your-netlify-link-here
+👉 https://jobportaldevelopbykapil.netlify.app/
 
 ---
 
